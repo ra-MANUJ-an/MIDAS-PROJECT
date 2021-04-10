@@ -9,4 +9,4 @@ Data was trained and tested on Two different models.
 Comparing pre-trained and random model results it seems that data was incorrectly labelled.
 
 ## References
-All References(Reference In Text and Reference Used for Development of Code) are provided in the .ipynb files itself along with basic statistics of the code.
+All References(*[Reference In Text](https://arxiv.org/abs/1512.03385)* and *[Reference Used for Development of Code](https://github.com/fchollet/deep-learning-models/blob/master/resnet50.py)*) are provided in the .ipynb files itself along with basic statistics of the code.
