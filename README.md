@@ -1,6 +1,7 @@
 # MIDAS-PROJECT
 
 ## About
+Task 2 is being done (to train CNN) with part 1 at *[Project_task1.ipynb](https://github.com/ra-MANUJ-an/MIDAS-PROJECT/blob/main/Project_task1.ipynb)*
 Data was trained and tested on Two different models.
 
 ## Task 3 Observations
